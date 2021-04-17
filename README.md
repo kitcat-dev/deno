@@ -1,2 +1,5 @@
-# Deno
-Deno demos
+# Deno demos
+
+```sh
+vercel dev
+```
