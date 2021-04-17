@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/**/*.[jt]s": {
+      "runtime": "vercel-dev-runtime@0.7.9",
+      "includeFiles": "api/**/*.json"
+    }
+  }
+}
